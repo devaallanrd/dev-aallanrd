@@ -7,7 +7,7 @@
   "ubicacion": "Los Angeles,California",
   "gerente_general": "Mitch Kupchak",
   "fundacion": "1947",
-  "activo": false,
+  "activo": true,
   "stars": 10,
   "twitter": "Lakers",
   "ref": "lakers",
