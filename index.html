@@ -7,11 +7,33 @@
 <!--<![endif]-->
 
 <head>
+
+  <link rel="apple-touch-icon" sizes="57x57" href="rsc/favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="rsc/favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="rsc/favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="rsc/favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="rsc/favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="rsc/favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="rsc/favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="rsc/favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="rsc/favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="rsc/favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="rsc/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="rsc/favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="rsc/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+
+
+
   <meta charset="utf-8">
   <meta charset="ISO-8859-1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>My AngularJS App</title>
-  <meta name="description" content="">
+  <title>Landing dev-aallanrd | dev.aallanrd</title>
+  <meta name="description" content="Website Landing Page for developers- dev -aallanrd developer.aallanrd">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
@@ -22,6 +44,7 @@
   <link type="text/css" rel="stylesheet" href="css/styles.css" media="all" />
   <link type="text/css" rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css" media="all" />
   <link type="text/css" rel="stylesheet" href="bower_components/bootstrap-social/bootstrap-social.css" media="all" />
+
 </head>
 
 <body class="">
@@ -32,19 +55,31 @@
     <ul class="Navigation-inner-list Navigation-inner-list--breadcrumb">
       <li class="NavigationItem NavigationItem--main NavigationItem--breadcrumb">
         <a class="NavigationItem-link" href="#/">
-          <img class="NavigationItem--user-link-image" src="img/basketball8.png"
-               alt="profile"> &nbsp;Inicio</a>
+          <i class="fa fa-battery-4"></i> &nbsp;Inicio</a>
 
       <li class="NavigationItem NavigationItem--main NavigationItem--breadcrumb NavigationItem--withChildren"
           data-is-clickable="false">
-        <a class="NavigationItem-link" href="">Live Game <i class="glyphicon glyphicon-chevron-down"></i></a>
+        <a class="NavigationItem-link" href="devaallanrd.html">@aallanrd <i class="glyphicon glyphicon-chevron-down"></i></a>
         <ul class="Navigation Navigation--sub">
           <li class="NavigationItem NavigationItem--sub">
-            <a class="NavigationItem-link" href="#/narraciones">Equipos</a></li>
+            <a class="NavigationItem-link" href="devaallanrd.html#info">Info</a></li>
           <li class="NavigationItem NavigationItem--sub">
-            <a class="NavigationItem-link" href="#/equipos">Narraciones</a></li>
+            <a class="NavigationItem-link" href="devaallanrd.html#inicio">Inicio</a></li>
           <li class="NavigationItem NavigationItem--sub">
-            <a class="NavigationItem-link" href="#/jugadores">Jugadores</a></li>
+            <a class="NavigationItem-link" href="devaallanrd.html#linea-tiempo">Linea de Tiempo</a></li>
+
+        </ul>
+      </li>
+      <li class="NavigationItem NavigationItem--main NavigationItem--breadcrumb NavigationItem--withChildren"
+          data-is-clickable="false">
+        <a class="NavigationItem-link" href="">Intereses <i class="glyphicon glyphicon-chevron-down"></i></a>
+        <ul class="Navigation Navigation--sub">
+          <li class="NavigationItem NavigationItem--sub">
+            <a class="NavigationItem-link" href="/#narracionesx">Info</a></li>
+          <li class="NavigationItem NavigationItem--sub">
+            <a class="NavigationItem-link" href="/#equiposx">Narraciones</a></li>
+          <li class="NavigationItem NavigationItem--sub">
+            <a class="NavigationItem-link" href="/#jugadoresx">Jugadores</a></li>
 
         </ul>
       </li>
@@ -52,8 +87,7 @@
     <ul class="Navigation-inner-list Navigation-inner-list--side Navigation-inner-list--user">
       <li class="NavigationItem NavigationItem--user NavigationItem--withChildren" data-is-clickable="false">
         <a class="NavigationItem-link" href="">
-          <img class="NavigationItem--user-link-image" src="img/basketball8.png"
-               alt="profile"></a>
+          <i class="fa fa-user btn-lg "></i></a>
         <ul class="Navigation Navigation--sub">
           <li class="NavigationItem NavigationItem--sub"><a class="NavigationItem-link"
                                                             href="https://twitter.com/logout">Sign out</a></li>
@@ -93,9 +127,35 @@
             <input class="form-control" ng-model="nomb">
             <hr>
             <div class="text-center">
-              <button class="btn btn-success btn-lg text-center">Ingresar</button>
+              <button href="" class="btn  btn-lg btn-success text-center"
+                 data-toggle="modal"
+                 data-target="#modal_login">Login</button>
               <button class="btn btn-warning btn-lg">Registrarme</button>
             </div>
+
+          <div class="modal fade" id="modal_login"
+               tabindex="-1" role="dialog" aria-labelledby="basicModal"
+               aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header" style="height: 60px">
+                  <div class="modal-body text-center "></div>
+                </div>
+                <div class="modal-footer">
+                  <div class="pull-right">
+                    <br>
+                    <div class="g-signin2 " data-onsuccess="onSignIn"> </div>
+                  </div>
+                  <div class="pull-left">
+                    <br>
+                    <a class="btn  btn-social btn-twitter">
+                      <i class="fa fa-twitter"></i> Sign in with Twitter
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
           <hr>
 
         </div>

@@ -14,29 +14,139 @@
                     <div >
                         <div class="row">
 
-                            <div class="col-md-8">
-                                <hr>  <div class="thumbnail"> Ideas Encontradas  </div>
+                            <div class="col-md-5">
+                                <hr>  <div class="thumbnail"> <h1 class="text-warning">Dale un vistazo a estos equipos de la XNBA<h1>   </div>
 
                                 <input ng-model="search" type="text" placeholder="Buscar Aqui" class="form-control ">
 
-                                <hr>
-                                <div class="thumbnail" ng-repeat="x in data | filter:search">
-                                    <div class="panel"   >
-                                        <div class="panel-heading" >
-                                            <h1>  {{x.nombre }} </h1>
 
+
+                                <hr>
+                                <div class="thumbnail" ng-repeat="x in data | filter:search" >
+                                    <div class="panel" ng-show="x.activo"    >
+                                        <div class="panel-heading" >
+
+                                            <a href="#/view1"  data-toggle="modal"
+                                               data-target="#modal_{{x.ref}}">
+                                            <img class="img-thumbnail pull-right" ng-src="img/{{x.ref}}/{{x.ref}}_small.png">
+                                            </a>
+                                            <h1>  {{x.nombre }} </h1>
                                         </div>
                                         <div class="panel-body" >
 
-                                            <h3>  {{x.comment }} </h3>
+
+                                            <h3>  {{x.descripcion }} </h3>
 
                                         </div>
                                         <div class="panel-footer" >
+                                            <a class="btn  btn-twitter  pull-right" href="http://twitter.com/{{x.twitter}}"
+                                               target="_blank">
+                                                <i class="fa fa-twitter" style="color: white"></i>
+                                            </a>
+                                            <h4>  {{x.fundacion + '/' }}
+                                                <i class="glyphicon glyphicon-star">
 
+                                                </i> {{  x.stars  }}
+                                            </h4>
+
+                                            <p class="panel-footer">
+                                                <!--<a href="#" class="btn btn-primary" role="button"> Seguir </a>-->
+                                                <a href="#/view1" class="btn-success btn"
+                                                   data-toggle="modal"
+                                                   data-target="#modalP_{{x.ref}}">Plantilla</a>
+                                            </p>
 
                                         </div>
-                                        
+
                                     </div>
+                                    <!-- Modal Para Resumen -->
+                                    <div class="modal fade" id="modal_{{x.ref}}"
+                                         tabindex="-1" role="dialog" aria-labelledby="basicModal"
+                                         aria-hidden="true">
+                                        <div class="modal-dialog">
+                                            <div class="modal-content">
+                                                <div class="modal-header" style="height: 60px">
+                                                    <a class="btn close pull-right" data-dismiss="modal"
+                                                       aria-hidden="true">{{x.nombre}}
+                                                        <i class="glyphicon glyphicon-remove"></i>
+                                                    </a>
+                                                    <a class="btn close pull-left"
+                                                       href="http://twitter.com/{{x.twitter}}" target="_blank">
+                                                        twitter@{{x.twitter}}
+                                                        <i class="glyphicon glyphicon-new-window"></i>
+                                                    </a>
+                                                </div>
+                                                <div class="modal-body text-center ">
+                                                    <p>
+                                                        <b>Ubicacion : </b> {{x.ubicacion}} <br>
+                                                        <b>Estadio :</b> {{x.estadio}} <br>
+                                                        <b>Entrenador :</b> {{x.entrenador}} <br>
+                                                        <b> Gerente General :</b> {{x.gerente_general}} <br>
+                                                        <b>Fundacion :</b> {{x.fundacion}} <br>
+                                                    </p>
+                                                    <img class="img-rounded img-responsive center-block"
+                                                         src="img/{{x.ref+'/'+x.ref}}_400x400.png">
+                                                </div>
+                                                <div class="modal-footer">
+                                                    <button type="button" class="close " data-dismiss="modal"
+                                                            aria-hidden="true"><span class="glyphicon glyphicon-chevron-right"></span></button>
+                                                    <button type="button" class="close pull-left " data-dismiss="modal"
+                                                            aria-hidden="true"><span class="glyphicon glyphicon-chevron-left"></span></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Modal Para Plantilla -->
+                                    <div class="modal fade" id="modalP_{{x.ref}}" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
+                                        <div class="modal-dialog modal-lg">
+                                            <div class="modal-content">
+                                                <div class="modal-header" style="height: 60px">
+                                                    <a class="btn close pull-right" data-dismiss="modal"
+                                                       aria-hidden="true">{{x.nombre}} <i class="glyphicon glyphicon-remove"></i>
+                                                    </a>
+                                                    <a class="btn close pull-left"  href="http://twitter.com/{{x.twitter}}"
+                                                       target="_blank">
+                                                        twitter@{{x.twitter}} <i class="glyphicon glyphicon-new-window"></i>
+                                                    </a>
+                                                </div>
+                                                <div class="modal-body text-center " >
+                                                    <div >
+                                                        <h2>
+                                                        </h2>
+                                                        <table class="table table-hover">
+                                                            <thead>
+                                                            <tr>
+                                                                <th>Dorsal</th>
+                                                                <th>Nombre</th>
+                                                                <th>Posicion</th>
+                                                                <th>Peso</th>
+                                                                <th>Altura</th>
+                                                                <th>Nacimiento</th>
+                                                                <th>Edad</th>
+                                                            </tr>
+                                                            </thead>
+                                                            <tbody>
+                                                            <tr  ng-repeat="jugador in x.jugadores | orderBy:'dorsal' "
+                                                                 ng-click="sayHello(jugador.nombre)">
+                                                                <td > #{{jugador.dorsal }}</td>
+                                                                <td> <a href="http://twitter.com/{{jugador.twitter}}" target="_blank">
+                                                                    {{jugador.nombre }}&nbsp <i class="glyphicon glyphicon-new-window"></i></a>
+                                                                </td>
+                                                                <td>{{jugador.posicion }}</td>
+                                                                <td>{{jugador.peso }}</td>
+                                                                <td>{{jugador.altura }}</td>
+                                                                <td>{{jugador.nacimiento }}</td>
+                                                                <td>{{jugador.edad }}</td>
+                                                            </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                    <!-- -->
+                                                    <!-- -->
+                                                </div>
+
+                                            </div>
+                                        </div>
 
                                 </div>
                                 <!--<pre> {{data}}</pre> -->
@@ -50,14 +160,16 @@
 
                                 <br>
                                 Response
-                             <pre ng-bind="status"> </pre>
+                                <pre ng-bind="status"> </pre>
                                 Elementos Encontrados
                                 <pre> <span ng-bind="data.length"></span></pre>
                                 <pre style="height: 250px;
 
                                   overflow: auto;
                                   "> {{prettyData }}</pre>
-                             </div>
+                                <a class="btn  btn-github  pull-right" href="https://github.com/devaallanrd/dev-aallanrd" target="_blank">
+                                    <i class="fa fa-github"></i> </a>
+                            </div>
 
                         </div>
                     </div>

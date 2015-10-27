@@ -4,7 +4,7 @@ angular.module('myApp.view1', ['ngRoute'])
 
 .config(['$routeProvider', function($routeProvider) {
   $routeProvider.when('/narraciones', {
-    templateUrl: '/view1.html',
+    templateUrl: 'view1/view1.html',
     controller: 'View1Ctrl'
   });
 }])
@@ -21,8 +21,10 @@ angular.module('myApp.view1', ['ngRoute'])
         //Llamada HTTP al Modelo Para Solicitar Datos
         $scope.fetchy = function(call) {
 
-            $scope.url = 'model/' + call + '.json';
-
+            // You'll need an access token to access&authentication these later --- > More info http://developer.aallanrd.com/docs
+            // Try this for production: 'http://developer.aallanrd.com/app/model/equipos.json'
+            //Try this locally
+            $scope.url = 'model/equipos.json';
             $scope.response = null;
 
             //Llamada Principal Para solicitar al Modelo
