@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" ng-app="myApp" class="no-js">
+<!--<![endif]-->
+
+<head>
+  <meta charset="utf-8">
+  <meta charset="ISO-8859-1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>My AngularJS App</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/normalize.css">
+
+  <link type="text/css" rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" media="all" />
+  <link type="text/css" rel="stylesheet" href="css/gotham-narrow-v3.css" media="all" />
+  <link type="text/css" rel="stylesheet" href="css/styles.css" media="all" />
+  <link type="text/css" rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css" media="all" />
+  <link type="text/css" rel="stylesheet" href="bower_components/bootstrap-social/bootstrap-social.css" media="all" />
+</head>
+
+<body class="">
+
+
+<div  class="navbar Navigation Navigation--global is-loaded navbar-fixed-top">
+  <div class="Navigation-inner">
+    <ul class="Navigation-inner-list Navigation-inner-list--breadcrumb">
+      <li class="NavigationItem NavigationItem--main NavigationItem--breadcrumb">
+        <a class="NavigationItem-link" href="#/">
+          <img class="NavigationItem--user-link-image" src="img/basketball8.png"
+               alt="profile"> &nbsp;Inicio</a>
+
+      <li class="NavigationItem NavigationItem--main NavigationItem--breadcrumb NavigationItem--withChildren"
+          data-is-clickable="false">
+        <a class="NavigationItem-link" href="">Live Game <i class="glyphicon glyphicon-chevron-down"></i></a>
+        <ul class="Navigation Navigation--sub">
+          <li class="NavigationItem NavigationItem--sub">
+            <a class="NavigationItem-link" href="#/narraciones">Equipos</a></li>
+          <li class="NavigationItem NavigationItem--sub">
+            <a class="NavigationItem-link" href="#/equipos">Narraciones</a></li>
+          <li class="NavigationItem NavigationItem--sub">
+            <a class="NavigationItem-link" href="#/jugadores">Jugadores</a></li>
+
+        </ul>
+      </li>
+    </ul>
+    <ul class="Navigation-inner-list Navigation-inner-list--side Navigation-inner-list--user">
+      <li class="NavigationItem NavigationItem--user NavigationItem--withChildren" data-is-clickable="false">
+        <a class="NavigationItem-link" href="">
+          <img class="NavigationItem--user-link-image" src="img/basketball8.png"
+               alt="profile"></a>
+        <ul class="Navigation Navigation--sub">
+          <li class="NavigationItem NavigationItem--sub"><a class="NavigationItem-link"
+                                                            href="https://twitter.com/logout">Sign out</a></li>
+          <li class="NavigationItem NavigationItem--sub"><a class="NavigationItem-link"
+                                                            href="https://twitter.com/">Go to Twitter</a></li>
+        </ul>
+      </li>
+    </ul>
+
+    <div class="Navigation-inner-item Navigation-inner-item--search">
+      <form action="search/"
+            class="NavigationItem NavigationItem--search" method="get">
+        <input type="text" name="query" placeholder="Search" class="NavigationItem-searchBox">
+        <button type="submit" hidden ></button>
+
+
+
+
+      </form>
+    </div>
+  </div>
+</div>
+
+<!--[if lt IE 7]>
+<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please
+  <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.
+</p>  <![endif]-->
+
+  <div class="container" ng-controller="GlobalController as global" >
+
+
+      <div class="row ">
+        <div class="col-md-6 pull-left">
+            <h1>Bienvenido <a ng-bind="nomb"></a> </h1>
+
+            Quien eres?
+            <input class="form-control" ng-model="nomb">
+            <hr>
+            <div class="text-center">
+              <button class="btn btn-success btn-lg text-center">Ingresar</button>
+              <button class="btn btn-warning btn-lg">Registrarme</button>
+            </div>
+          <hr>
+
+        </div>
+
+      </div>
+
+      <div ng-view></div>
+
+
+  </div>
+
+<footer class="Footer Footer--global">
+  <nav class="Footer-navigation">
+    <ul class="Footer-navigation-items">
+      <li class="Footer-navigation-item">
+        <a href="https://about.twitter.com/" class="FooterItem">About</a>
+      </li>
+      <li class="Footer-navigation-item">
+        <a href="https://about.twitter.com/company" class="FooterItem">Company</a>
+      </li>
+      <li class="Footer-navigation-item">
+        <a href="https://blog.twitter.com/" class="FooterItem">Blog</a>
+      </li>
+      <li class="Footer-navigation-item">
+        <a href="https://support.twitter.com/" class="FooterItem">Help</a>
+      </li>
+      <li class="Footer-navigation-item">
+        <a href="http://status.twitter.com/" class="FooterItem">Status</a>
+      </li>
+      <li class="Footer-navigation-item">
+        <a href="https://about.twitter.com/careers" class="FooterItem">Jobs</a>
+      </li>
+      <li class="Footer-navigation-item">
+        <a href="https://twitter.com/tos" class="FooterItem">Terms</a>
+      </li>
+      <li class="Footer-navigation-item">
+        <a href="https://twitter.com/privacy" class="FooterItem">Privacy</a>
+      </li>
+      <li class="Footer-navigation-item">
+        <a href="https://support.twitter.com/articles/20170514" class="FooterItem">Cookies</a>
+      </li>
+      <li class="Footer-navigation-item">
+        <a href="https://support.twitter.com/articles/20170451" class="FooterItem">Ads info</a>
+      </li>
+      <li class="Footer-navigation-item">
+        <a href="https://about.twitter.com/company/brand-assets" class="FooterItem">Brand</a>
+      </li>
+      <li class="Footer-navigation-item">
+        <a href="https://ads.twitter.com/start?ref=gl-tw-tw-twitter-advertise" class="FooterItem">Advertise</a>
+      </li>
+      <li class="Footer-navigation-item">
+        <a href="https://business.twitter.com/" class="FooterItem">Businesses</a>
+      </li>
+      <li class="Footer-navigation-item">
+        <a href="https://media.twitter.com/" class="FooterItem">Media</a>
+      </li>
+      <li class="Footer-navigation-item">
+        <a href="./twitter.developer_files/twitter.developer.html" class="FooterItem">Developers</a>
+      </li>
+    </ul>
+  </nav>
+  <div class="Footer-copyright">
+    © 2015 DevAllan, Inc. {{ ' v%VERSION%.' | interpolate }}
+  </div>
+
+</footer>
+
+
+<!-- In production use:
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/x.x.x/angular.min.js"></script>
+-->
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
+<script src="bower_components/angular/angular.js"></script>
+<script src="bower_components/angular-route/angular-route.js"></script>
+<script src="app.min.js"></script>
+<script src="view1/view1.js"></script>
+<script src="view2/view2.js"></script>
+<script src="view3/view3.js"></script>
+<script src="components/version/version.js"></script>
+<script src="components/version/version-directive.js"></script>
+<script src="components/version/interpolate-filter.js"></script>
+<script src="bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js"></script>
+<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

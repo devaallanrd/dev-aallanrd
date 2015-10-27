@@ -1,0 +1,2127 @@
+[
+  {
+  "nombre": "Los Angeles Lakers",
+  "descripcion": "Equipo de baloncesto profesional de la NBA, con sede en Los Angeles, California",
+  "estadio": "Staples Center",
+  "entrenador": "Byron Scott",
+  "ubicacion": "Los Angeles,California",
+  "gerente_general": "Mitch Kupchak",
+  "fundacion": "1947",
+  "activo": true,
+  "stars": 10,
+  "twitter": "Lakers",
+  "ref": "lakers",
+  "jugadores": [{
+    "nombre": "Kobe Bryant",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos ",
+    "fecha_nacimiento": " 23 de agosto de 1978",
+    "edad": 37,
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1 ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "twitter": "kobebryant",
+    "ref": "kobebryant",
+    "description": "Kobe Bean Bryant, mas conocido como Kobe Bryant, es un jugador estadounidense de baloncesto que pertenece a la plantilla de Los Angeles Lakers de la NBA",
+    "images": {
+      "full": "assets/jugadores/lakers/kobe-bryant.jpg",
+      "thump": ""
+    },
+    "reviews": [{
+      "stars": 3,
+      "body": "@kobebryant",
+      "author": "kobebryant"
+    }, {
+      "stars": 4,
+      "body": "@kobebryant",
+      "author": "kobebryant"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }, {
+    "nombre": "Roy Hibbert",
+    "apodo": "",
+    "nacimiento": "Queens, Nueva York, Estados Unidos, ",
+    "fecha_nacimiento": "11 de diciembre de 1986 ",
+    "edad": 28,
+    "nacionalidad": "Estados Unidos",
+    "altura": "2,18 m (7 ft 2 in)",
+    "peso": "127 kg (279 lb)",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 17), 2008 por Toronto Raptors",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Pivot",
+    "dorsal": 17,
+    "seleccion": "USA, Jamaica",
+    "twitter": "Roy_Meets_World",
+    "ref": "royhibbert",
+    "description": "Roy Denzil Hibbert (nacido el 11 de diciembre de 1986 en Queens, Nueva York) es un jugador profesional de baloncesto estadounidense que forma parte de la plantilla de Los Angeles Lakers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/lakers/roy-hibbert.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@royhibbert",
+      "author": "royhibbert"
+    }, {
+      "stars": 4,
+      "body": "@royhibbert",
+      "author": "royhibbert"
+    }],
+    "medallero": [],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "2? Equipo All-American ",
+      "fecha": "(2008)",
+      "lugar": "USA"
+    }]
+  }, {
+    "nombre": "D'Angelo Russell",
+    "apodo": "",
+    "nacimiento": "Louisville, Kentucky, Estados Unidos",
+    "fecha_nacimiento": "23 de febrero de 1996 ",
+    "edad": 19,
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,96 m (6 ft 5 in)",
+    "peso": "82 kg (180 lb)",
+    "deporte": "Baloncesto",
+    "draft": "1 ronda (puesto 2), 2015 por Los Angeles Lakers1",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Base/Escolta",
+    "dorsal": 1,
+    "seleccion": "USA",
+    "twitter": "Dloading",
+    "ref": "Dloading",
+    "description": "D'Angelo Russell es un baloncestista estadounidense que actualmente pertenece a los Los Angeles Lakers de la NBA.",
+    "images": {
+      "full": "assets/jugadores/lakers/dangelo-russell.jpg",
+      "thump": ""
+    },
+    "reviews": [{
+      "stars": 3,
+      "body": "@Dloading",
+      "author": "Dloading"
+    }, {
+      "stars": 4,
+      "body": "@Dloading",
+      "author": "Dloading"
+    }],
+    "medallero": [],
+    "premios": []
+  }, {
+    "nombre": "Nick Young",
+    "apodo": "",
+    "nacimiento": " Los ?ngeles, California, Estados Unidos ",
+    "fecha_nacimiento": "1 de junio de 1985",
+    "edad": 30,
+    "nacionalidad": "Estados Unidos",
+    "altura": "2,01 m (6 ft 7 in)",
+    "peso": "95 kg (209 lb)",
+    "deporte": "Baloncesto",
+    "draft": "1 ronda (puesto 16), 2007 por Washington Wizards",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta,Alero",
+    "dorsal": 0,
+    "seleccion": "USA",
+    "twitter": "NickSwagyPYoung",
+    "ref": "NickSwagyPYoung",
+    "description": "Nick Young es un jugador profesional de baloncesto estadounidense que pertenece a la plantilla de Los Angeles Lakers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/lakers/nick-young.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@NickSwagyPYoung",
+      "author": "NickSwagyPYoung"
+    }, {
+      "stars": 4,
+      "body": "@NickSwagyPYoung",
+      "author": "NickSwagyPYoung"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Cleveland Cavaliers",
+  "descripcion": "Equipo profesional de baloncesto de la NBA con sede en Cleveland, Ohio",
+  "estadio": "Quicken Loans Arena",
+  "entrenador": "David Blatt",
+  "ubicacion": "Ohio",
+  "gerente_general": "Dan Gilbert",
+  "fundacion": "1970",
+  "activo": true,
+  "stars": 10,
+  "twitter": "cavs",
+  "ref": "cavaliers",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "\"The King\", \"King James\", y \"The Chosen One\"",
+    "nacimiento": "Akron, Ohio, Estados Unidos",
+    "fecha_nacimiento": "30 de diciembre de 1984",
+    "edad": 31,
+    "nacionalidad": "Estados Unidos",
+    "altura": "2,03 m (6 ft 8 in)",
+    "peso": "113 kg (249 lb)",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 1), 2003 por Cleveland Cavaliers",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Alero",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "twitter": "kingjames",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }, {
+    "nombre": "J.R. Smith",
+    "apodo": "\"The Prodigy\"",
+    "nacimiento": "Freehold, New Jersey, Estados Unidos",
+    "fecha_nacimiento": "9 de septiembre de 1985",
+    "edad": 30,
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "100 kg (220 lb)",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 1), 2003 por Cleveland Cavaliers",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "twitter": "TheRealJRSmith",
+    "ref": "TheRealJRSmith",
+    "description": "Earl Joseph Smith III, conocido como J.R. Smith es un jugador profesional de baloncesto estadounidense que juega en los Cleveland Cavaliers de la NBA",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }, {
+    "nombre": "Kyrie Irving",
+    "apodo": "\"Uncle Drew\", \"Mr. Fourth Quarter\", \"The Bus Driver\"",
+    "nacimiento": "Melbourne, Victoria,Australia",
+    "fecha_nacimiento": "23 de marzo de 1992",
+    "edad": 23,
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,91 m (6 ft 3 in)",
+    "peso": "88 kg (194 lb)",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 1), 2011 por Cleveland Cavaliers",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Base",
+    "dorsal": 2,
+    "seleccion": "USA",
+    "twitter": "KyrieIrving",
+    "ref": "KyrieIrving",
+    "description": "Kyrie Andrew Irving es un jugador de baloncesto con doble nacionalidad, estadounidense y australiana, que pertenece a la plantilla de los Cleveland Cavaliers de la NBA",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Miami Heat",
+  "descripcion": "El Miami Heat es un equipo de baloncesto de la NBA con base en Miami, Florida",
+  "estadio": "AmericanAirlines Arena",
+  "entrenador": "Erik Spoelstra",
+  "ubicacion": "Miami",
+  "gerente_general": "Pat Riley",
+  "fundacion": "1988",
+  "activo": true,
+  "stars": 8.7,
+  "twitter": "miamiHeat",
+  "ref": "miami",
+  "jugadores": [{
+    "nombre": "Dwyane Wade",
+    "apodo": "\"Flash\", \"D-Wade\"",
+    "nacimiento": "\tChicago, Illinois, Estados Unidos",
+    "fecha_nacimiento": "17 de enero de 1982",
+    "edad": 33,
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,93 m (6 ft 4 in)",
+    "peso": "99.8 kg (220 lb)",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 5), 2003 por Miami Heat",
+    "debut": "2003",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 3,
+    "seleccion": "USA",
+    "twitter": "DwyaneWade",
+    "ref": "DwyaneWade",
+    "description": "Dwyane Tyrone Wade, Jr. es un jugador estadounidense de baloncesto que pertenece a la plantilla de los Miami Heat de la NB",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "San Antonio Spurs",
+  "descripcion": "San Antonio Spurs es un equipo de baloncesto de la NBA con base en San Antonio, Texas.",
+  "estadio": "AT&T Center",
+  "entrenador": "Gregg Popovich",
+  "ubicacion": "San Antonio",
+  "gerente_general": "Peter Holt",
+  "fundacion": "1946",
+  "activo": true,
+  "stars": 8.6,
+  "twitter": "spurs",
+  "ref": "spurs",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "New York Knicks",
+  "descripcion": "Franquicia de baloncesto de la NBA con sede en la ciudad de Nueva York",
+  "estadio": "Madison Square Garden",
+  "entrenador": "Derek Fisher",
+  "ubicacion": "Nueva York",
+  "gerente_general": "Peter Holt",
+  "fundacion": "1988",
+  "activo": true,
+  "stars": 9,
+  "twitter": "nyknicks",
+  "ref": "knicks",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Chicago Bulls",
+  "descripcion": "Equipo de baloncesto profesional de la NBA con sede en Chicago, Illinois, fundado en 1966.",
+  "estadio": "United Center",
+  "entrenador": "Fred Hoiberg",
+  "ubicacion": "Chicago",
+  "gerente_general": "Jerry Reinsdorf",
+  "fundacion": "1966",
+  "stars": 8.8,
+  "activo": true,
+  "twitter": "chicagobulls",
+  "ref": "bulls",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Boston Celtics",
+  "descripcion": "Franquicia de baloncesto en la NBA con sede en Boston, Massachusetts",
+  "estadio": "TD Garden",
+  "entrenador": "Brad Stevens",
+  "ubicacion": "Boston",
+  "gerente_general": "Walter Brown",
+  "fundacion": "1946",
+  "activo": true,
+  "stars": 8.1,
+  "twitter": "celtics",
+  "ref": "celtics",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Toronto Raptors",
+  "descripcion": "Equipo de baloncesto profesional con sede en Toronto, Ontario",
+  "estadio": "Air Canada Centre",
+  "entrenador": "Dwane Casey",
+  "ubicacion": "Toronto",
+  "stars": 8.8,
+  "gerente_general": "Masai Ujiri",
+  "fundacion": "1946",
+  "activo": true,
+  "twitter": "raptors",
+  "ref": "raptors",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Los Angeles Clippers",
+  "descripcion": "Equipo de baloncesto de la NBA con sede en Los Angeles, California.",
+  "estadio": "Staples Center",
+  "entrenador": "Doc Rivers",
+  "ubicacion": "Los Angeles",
+  "gerente_general": "Steve Ballmer    ",
+  "fundacion": "1946",
+  "activo": true,
+  "stars": 8.8,
+  "twitter": "LAClippers",
+  "ref": "clippers",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Dallas Mavericks",
+  "descripcion": "Equipo profesional de baloncesto de la NBA con base en Dallas, Texas",
+  "estadio": "American Airlines Center",
+  "entrenador": "Rick Carlisle",
+  "ubicacion": "Dallas",
+  "gerente_general": "Mark Cuban",
+  "fundacion": "1980",
+  "stars": 5,
+  "activo": true,
+  "twitter": "dallasmavs",
+  "ref": "mavericks",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Houston Rockets",
+  "descripcion": "Equipo profesional de baloncesto estadounidense con sede en Houston, Texas",
+  "estadio": "Toyota Center",
+  "entrenador": "Kevin McHale",
+  "ubicacion": "Houston",
+  "gerente_general": "Leslie Alexander",
+  "fundacion": "1967",
+  "activo": true,
+  "stars": 5,
+  "twitter": "HoustonRockets",
+  "ref": "rockets",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Golden State Warriors",
+  "descripcion": "Equipo profesional de baloncesto que juega en la NBA con base en Oakland, California",
+  "estadio": "Oracle Arena",
+  "entrenador": "Steve Kerr",
+  "ubicacion": "Oakland",
+  "gerente_general": "Steven Kim, Peter A. Tyrrell",
+  "fundacion": "1946",
+  "activo": true,
+  "stars": 5,
+  "twitter": "warriors",
+  "ref": "warriors",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Sacramento Kings",
+  "descripcion": "Equipo profesional de baloncesto de la NBA con base en Dallas, Texas",
+  "estadio": "American Airlines Center",
+  "entrenador": "Rick Carlisle",
+  "ubicacion": "Dallas",
+  "gerente_general": "Mark Cuban",
+  "fundacion": "1980",
+  "activo": true,
+  "stars": 5,
+  "twitter": "sacramentokings",
+  "ref": "kings",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Philadelphia 76ers ",
+  "descripcion": "Sixers, Equipo de baloncesto de la NBA con sede en Filadelfia, Pensilvania",
+  "estadio": "Wells Fargo Center",
+  "entrenador": "Brett Brown",
+  "ubicacion": "Filadelfia",
+  "gerente_general": "Sam Hinkie",
+  "fundacion": "1946",
+  "activo": true,
+  "stars": 5.5,
+  "twitter": "sixers",
+  "ref": "76ers",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Oklahoma City Thunders",
+  "descripcion": "Equipo profesional de baloncesto de la NBA con sede en Oklahoma City",
+  "estadio": "Chesapeake Energy Arena",
+  "entrenador": "Billy Donovan, Monty Williams",
+  "ubicacion": "Oklahoma City",
+  "gerente_general": "Sam Hinkie",
+  "fundacion": "1967",
+  "activo": true,
+  "stars": 5.3,
+  "twitter": "okcthunder",
+  "ref": "thunders",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Phoenix Suns",
+  "descripcion": "Equipo profesional de baloncesto de la NBA con sede en Phoenix, Arizona fundado en 1968",
+  "estadio": "Talking Stick Resort Arena",
+  "entrenador": "Jeff Hornacek",
+  "ubicacion": "Oklahoma City",
+  "gerente_general": "Robert Sarver",
+  "fundacion": "1968",
+  "activo": true,
+  "twitter": "suns",
+  "ref": "suns",
+  "stars": 5,
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Detroit Pistons",
+  "descripcion": "Equipo profesional de baloncesto de la NBA con sede en Auburn Hills",
+  "estadio": "The Palace of Auburn Hills",
+  "entrenador": "Stan Van Gundy",
+  "ubicacion": "Detroit",
+  "gerente_general": "Tom Gores",
+  "fundacion": "1941",
+  "activo": true,
+  "stars": 5,
+  "twitter": "DetroitPistons",
+  "ref": "pistons",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Atlanta Hawks",
+  "descripcion": "Equipo de baloncesto de la NBA con sede en la ciudad de Atlanta, Georgia",
+  "estadio": "Philips Arena",
+  "entrenador": "Mike Budenholzer",
+  "ubicacion": "Atlanta",
+  "gerente_general": "Antony Ressler",
+  "fundacion": "1941",
+  "activo": true,
+  "stars": 5,
+  "twitter": "ATLHawks",
+  "ref": "hawks",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Portlant Trail Blazers",
+  "descripcion": "Equipo de baloncesto de la NBA con base en Portland, Oregon",
+  "estadio": "Moda Center",
+  "entrenador": "Terry Stotts",
+  "ubicacion": "Portland",
+  "gerente_general": "Tom Gores",
+  "fundacion": "1970",
+  "activo": true,
+  "stars": 5,
+  "twitter": "trailblazers",
+  "ref": "blazers",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Charlotte Hornets",
+  "descripcion": "Equipo de baloncesto de la NBA con sede en Charlotte, Carolina del Norte",
+  "estadio": "The Palace of Auburn Hills",
+  "entrenador": "Stan Van Gundy",
+  "ubicacion": "Carolina del Norte",
+  "gerente_general": "Tom Gores",
+  "fundacion": "1988",
+  "activo": true,
+  "stars": 5,
+  "twitter": "hornets",
+  "ref": "hornets",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Indiana Pacers",
+  "descripcion": "Es una franquicia NBA con sede en Indianapolis, Indiana",
+  "estadio": "Bankers Life Fieldhouse",
+  "entrenador": "Frank Vogel",
+  "ubicacion": "Indianapolis",
+  "gerente_general": "Larry Bird",
+  "fundacion": "1967",
+  "activo": true,
+  "stars": 7.7,
+  "twitter": "Pacers",
+  "ref": "pacers",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "New Orleans Pelicans",
+  "descripcion": "Es una franquicia profesional de baloncesto de la NBA con sede en Nueva Orleans, Luisiana.",
+  "estadio": "Smoothie King Center",
+  "entrenador": "Alvin Gentry",
+  "ubicacion": "Nueva Orleans",
+  "gerente_general": "Tom Benson",
+  "fundacion": "1988",
+  "activo": true,
+  "stars": 5,
+  "twitter": "pelicansNBA",
+  "ref": "pelicans",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Brooklyn Nets",
+  "descripcion": "Franquicia de baloncesto de la NBA con sede en Brooklyn",
+  "estadio": "Barclays Center",
+  "entrenador": "Lionel Hollins",
+  "ubicacion": "Brooklyn",
+  "gerente_general": "Mija?l Pr?jorov1",
+  "fundacion": "1967",
+  "activo": true,
+  "twitter": "BrooklynNets",
+  "ref": "nets",
+  "stars": 5,
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Orlando Magic",
+  "descripcion": "Orlando Magic es una franquicia de la NBA con sede en Orlando, Florida",
+  "estadio": "Amway Center",
+  "entrenador": "Scott Skiles",
+  "ubicacion": "Orlando",
+  "gerente_general": "Alex Martins",
+  "fundacion": "1941",
+  "activo": true,
+  "twitter": "orlandomagic",
+  "ref": "orlando",
+  "stars": 5,
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Minnesota Timberwolves",
+  "descripcion": "Equipo de baloncesto que juega en la NBA, y tiene su sede en Minneapolis",
+  "estadio": "Target Center",
+  "entrenador": "Stan Van Gundy",
+  "ubicacion": "Minneapolis,Minnesota",
+  "stars": 8.6,
+  "gerente_general": "Glen Taylor",
+  "fundacion": "1989",
+  "activo": true,
+  "twitter": "timberwolves",
+  "ref": "timberwolves",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Washington Wizards",
+  "descripcion": "Equipo profesional de baloncesto de la NBA con sede en, Washington, D.C.",
+  "estadio": "Verizon Center",
+  "entrenador": "Randy Wittman",
+  "ubicacion": "Washington D. C.",
+  "stars": 8.1,
+  "gerente_general": "Ted Leonsis",
+  "fundacion": "1978",
+  "activo": true,
+  "twitter": "WashWizards",
+  "ref": "wizards",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Milwaukee Bucks",
+  "descripcion": "Milwaukee Bucks es un equipo NBA con base en Milwaukee, Wisconsin",
+  "estadio": "BMO Harris Bradley Center",
+  "entrenador": "Jason Kidd",
+  "ubicacion": "Milwaukee",
+  "gerente_general": "Wesley R. Edens, Marc Lasry",
+  "fundacion": "1971",
+  "stars": 8.3,
+  "activo": true,
+  "twitter": "bucks",
+  "ref": "bucks",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+},
+  {
+  "nombre": "Denver Nuggets",
+  "descripcion": "Equipo profesional de baloncesto de la NBA con sede en Denver, Colorado",
+  "estadio": "Pepsi Center",
+  "entrenador": "Michael Malone",
+  "ubicacion": "Denver",
+  "gerente_general": "Stan Kroenke",
+  "fundacion": "1967",
+  "activo": true,
+  "stars": 8.8,
+  "twitter": "nuggets",
+  "ref": "nuggets",
+  "jugadores": [{
+    "nombre": "Lebron James",
+    "apodo": "Black Mamba",
+    "nacimiento": "Filadelfia, Pensilvania, Estados Unidos, 23 de agosto de 1978 (37 a?os)",
+    "nacionalidad": "Estados Unidos",
+    "altura": "1,98 m (6 ft 6 in)",
+    "peso": "93 kg (205 lb",
+    "deporte": "Baloncesto",
+    "draft": "1? ronda (puesto 13), 1996 por Charlotte Hornets",
+    "debut": "",
+    "liga": "NBA",
+    "posicion": "Escolta",
+    "dorsal": 23,
+    "seleccion": "USA",
+    "ref": "kingjames",
+    "description": "LeBron Raymone James es un jugador de baloncesto estadounidense que actualmente pertenece a la plantilla de los Cleveland Cavaliers de la NBA.",
+    "images": [{
+      "full": "assets/jugadores/cavaliers/lebron-james.jpg",
+      "thump": ""
+    }],
+    "reviews": [{
+      "stars": 3,
+      "body": "@kingjames",
+      "author": "TheKingLebron"
+    }, {
+      "stars": 4,
+      "body": "@jamesrodr",
+      "author": "James"
+    }],
+    "medallero": [{
+      "medalla": "Oro",
+      "competicion": "Juegos Olimpicos",
+      "lugar": "Pekin ",
+      "ocacion": 2008,
+      "nacion": "USA"
+    }, {
+      "medalla": "Oro",
+      "competicion": "Torneo de las Americas",
+      "lugar": "Londres ",
+      "ocacion": 2012,
+      "nacion": "USA"
+    }],
+    "premios": [{
+      "posicion": "2",
+      "titulo": "Free",
+      "fecha": "Feb-2008",
+      "lugar": "USA"
+    }, {
+      "posicion": "1",
+      "titulo": "MVP",
+      "fecha": "Feb-2007",
+      "lugar": "USA"
+    }]
+  }]
+}]
