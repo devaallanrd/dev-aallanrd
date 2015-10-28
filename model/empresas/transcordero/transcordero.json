@@ -1,0 +1,41 @@
+[
+
+      {
+
+        "nombre": "Transportes Cordero" ,
+        "titular" : "Marieth Cordero",
+        "correo" : "mcordero@outlook.com",
+        "codigo" : "DA-69043925-3",
+        "telefono" : "2548-1367",
+        "direccion" : "100m sur de Gasolinera Río Conejo,  frente a la Iglesia católica",
+        "links" : {
+            "twitter" : "http://twitter.com/transcordero",
+            "facebook" : "http://facebook.com/transcordero",
+            "linkedin" : "http://cr.linkedin/transcordero",
+            "gmail" : "transcordero.cartago@gmail.com",
+            "mail" : "info@transcordero.com",
+            "googleplus" : "plus.google.com/transcordero",
+            "drive" : "https://drive.google.com/folderview?id=0B2353fVMyIesNWF2S3dMcXBESUk&usp=sharing",
+            "partner" : "",
+            "skype" : "http://skype.com/transcordero",
+            "chatter" : "http://salesforce.chatter.com/transcordero",
+
+
+        },
+       "contactos": {
+
+       },
+
+       "colaboradores" : {
+         "Mariela Solano" : {
+
+         }
+       }
+
+     }
+
+
+]
+
+
+

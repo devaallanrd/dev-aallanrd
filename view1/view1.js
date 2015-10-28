@@ -24,7 +24,7 @@ angular.module('myApp.view1', ['ngRoute'])
             // You'll need an access token to access&authentication these later --- > More info http://developer.aallanrd.com/docs
             // Try this for production: 'http://developer.aallanrd.com/app/model/equipos.json'
             //Try this locally
-            $scope.url = 'model/equipos.json';
+            $scope.url = 'model/empresas/transcordero.json';
             $scope.response = null;
 
             //Llamada Principal Para solicitar al Modelo
